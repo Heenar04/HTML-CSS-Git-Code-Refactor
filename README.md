@@ -1,8 +1,11 @@
 # 01 HTML CSS Git: Code Refactor
 ---
 
-- added alt tags to the images 
+- Added alt tags to the images 
     - to decribe
-- code semantically made correct 
-- cleared repetition in CSS by adding specifcations to class benefits.
-- 
+- Code semantically made correct 
+- Cleared repetition in CSS by adding specifcations to class benefits.
+
+---
+
+URL link npm( 
